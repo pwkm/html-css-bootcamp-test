@@ -1,0 +1,36 @@
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+
+#one {
+    font-weight: 300;
+}
+
+#two {
+    font-weight: 400;
+}
+
+#three {
+    font-weight: 900;
+}
+
+
+
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 5px solid blue;
+}
+
+span {
+    border: 1px solid red; 
+    padding: 10px;
+}
+
+div {
+    text-align: center;
+    border: 1px solid red; 
+}

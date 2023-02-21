@@ -1,0 +1,13 @@
+
+.emphasize {
+    color: red;
+}
+
+#promote {
+    color: green;
+}
+
+footer::first-letter {
+    color:blue;
+    font-size: xx-large;
+}

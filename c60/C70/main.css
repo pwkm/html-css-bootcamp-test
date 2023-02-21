@@ -1,0 +1,23 @@
+* {
+    border : 2px dashed hotpink;
+}
+
+html {
+    border : 2px dashed blue;
+}
+
+body {
+    border : 2px dashed black;
+}
+
+div {
+    
+    height: 200px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 5px groove red ;
+    padding: 5px;
+}

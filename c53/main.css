@@ -8,9 +8,11 @@ div {
 
 img {
     border: 1px groove red;
-    border-radius: 100%;
-    padding: 20px;
-    margin: 40px;;
+    width: 200px;
+    box-sizing: border-box;
+    /* border-radius: 100%; */
+    padding: 0px;
+    /* margin: 40px; */
 }
 
 .dogone {

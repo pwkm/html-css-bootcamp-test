@@ -1,0 +1,29 @@
+#three {
+    color: red;
+}
+
+.emphasized{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+    color: red;
+}
+
+[target="_blank"] {
+    color: darkgoldenrod;
+    border: 1px solid green;
+}
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    color:black;
+}
+
+a:hover {
+    color:blueviolet;
+}
+
+a:active {
+    color:aqua;
+}

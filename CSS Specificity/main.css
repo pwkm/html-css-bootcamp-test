@@ -1,0 +1,47 @@
+#number1 {
+    color: red;
+}
+
+.class1 {
+    color:green;    
+}
+
+p {
+    border: 2px solid red;
+}
+
+#number2 {
+    border: 2px solid green;
+}
+
+span {
+    color:blue;
+}
+
+.class2 {
+    color: yellowgreen ;
+}
+
+a {
+    color: brown;
+}
+
+[href] {
+    color:aquamarine;
+}
+
+a[target] {
+    color:blueviolet;
+}
+
+.class3 {
+    color: black ;
+}
+
+div {
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    cursor: help;
+}
+

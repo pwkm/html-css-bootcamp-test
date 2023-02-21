@@ -1,0 +1,23 @@
+h1 {
+    font-family: "SF Pro Display", serif;
+    font-size: 4rem;
+    font-weight: normal;
+    font-variant: small-caps;
+    line-height: 1.5;
+    letter-spacing: 1rem;
+
+    border: 1px dashed hotpink;
+}
+
+p{
+    border: 5px solid green;
+    line-height: 2;
+    /* formatting*/
+    width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+span {
+    border: 1px dashed black;
+}

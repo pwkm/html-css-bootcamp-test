@@ -1,0 +1,16 @@
+* {
+    border: 2px solid red;
+    margin:50px;
+}
+
+html {
+    border: 2px solid blue;
+}
+
+body {
+    border: 2px solid green;
+}
+
+div {
+    border: 2px solid yellow;
+}
