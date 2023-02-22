@@ -1,0 +1,39 @@
+main {
+display: flex;
+border: 2px solid green;
+height: 500px;
+
+/* align-items: flex-start; */
+/* align-items: flex-end; */
+align-items: baseline;
+/* align-items: center; */
+/* align-items: stretch; Why does it not work */
+/* align-items: flex-end; */
+
+/* Another topic */
+justify-content: flex-end;
+}
+
+div {
+width: 150px;
+border: 2px solid blue;
+background-color: darkgray;
+margin: 1rem;
+text-align: center;
+}
+
+#i1 {
+    height: 300px;
+    font-size: 3rem;
+    
+}
+
+#i2 {
+    height: 150px;
+    font-size: 1rem;
+}
+
+#i3 {
+    height: 200px;
+    font-size: 5rem;
+}
