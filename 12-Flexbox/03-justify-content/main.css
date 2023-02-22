@@ -1,0 +1,30 @@
+/* Flex container */
+header {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid blue;
+    height: 800px;
+    /* flex-direction: row; */
+    flex-direction: column;
+    justify-content: start;
+    /* justify-content: end; */
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: space-evenly; */
+
+}
+
+
+/* Flex Items */
+
+div {
+    /* Formatting */
+    width: 100px;
+    height: 100px;
+    margin: 1rem;
+    border: 1px solid red;
+    background-color:  darkgray;
+    text-align: center;
+    
+}
