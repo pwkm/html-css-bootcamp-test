@@ -1,0 +1,26 @@
+html, body {
+    /* Reset  the margin and padding */
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+}
+
+div {
+    border: 2px solid black;
+    height: 100px;
+    flex-basis: 200px;
+    /* flex-basis: 33%; */
+}
+
+.flex1 {
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.flex2 {
+    flex-grow: 8;
+    flex-shrink: 8;
+}

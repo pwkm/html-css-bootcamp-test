@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    height: 500px;
+    border: 5px solid red;
+}
+
+div {
+    width: 200px;
+    
+    margin: 1em;
+    border: 1px solid red;
+    background-color: darkgray;
+    text-align: center;
+}
+
+#deviate {
+    align-self: stretch;
+}
+
+.hme {
+    height: 100px;
+}
+
+.center {
+    align-self: center;
+}
+
+.end {
+    align-self: ;
+}
