@@ -1,0 +1,13 @@
+div {
+    width: 50%;
+    height: 3rem;
+    border: 2px solid blue;
+    text-align: center;
+}
+div:first-child {
+    width: 100%;
+    }
+
+body {
+    width: 900px;
+}

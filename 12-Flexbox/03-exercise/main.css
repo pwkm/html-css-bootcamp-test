@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-between;
+    height: 600px;
+}
+
+div{
+    width: 200px;
+    height: 100px;
+    border: 2px solid blue;
+    background-color: cadetblue;
+    margin: 1rem
+}

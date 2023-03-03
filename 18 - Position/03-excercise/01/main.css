@@ -1,0 +1,11 @@
+#footer {
+
+    position: fixed;
+    bottom: 0px;
+    left:10px;
+    /* formatting */
+    background-color: coral;
+    border: 1px solid blue;
+    height: 2rem;
+    width: 100%; 
+}

@@ -1,0 +1,28 @@
+div {
+    width: 400px;
+    height: 400px;
+}
+
+#one {
+    background-image: url(01.png),url(https://www.superhealthykids.com/wp-content/uploads/2023/01/healthy-banana-bread-7.jpg) ;
+    background-repeat: no-repeat;
+    /*-- Size --*/
+    background-size: contain;
+}
+
+#two {
+background-image: url(01.png),url(https://www.superhealthykids.com/wp-content/uploads/2023/01/healthy-banana-bread-7.jpg) ;
+background-repeat: no-repeat;
+/*-- Size --*/
+background-size: cover;
+}
+
+#three {
+    /* background-image: linear-gradient(red, blue ) ; */
+    background-image: radial-gradient(red, blue ) ;
+    background-repeat: no-repeat;
+    /*-- Size --*/
+    background-size: cover;
+    }
+
+    
